@@ -1,4 +1,4 @@
-# PowerBI-Store_Sales_Analysis_Dashboard
+# PowerBI-Sales_Metrics
 
 In this project I have incorporated data analysis techniques, specializing in **time series analysis**, to deliver valuable **insights**, accurate **sales forecasting**, and **interactive dynamic dashboard** creation, driving business success.
 
